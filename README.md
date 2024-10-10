@@ -1,6 +1,11 @@
 ## hey 👋 I'm Addison!
 
+I've been coding since early junior high (.bat and .vb shockingly) and am still learning plenty of new things.
 
+* I've taken plenty of classes that go over Python and Java, so they're by far my best 2 languages.
+* Rust is the first language I've learned completely on my own, and I'm definitely not perfect at it but I love it.
+* I'm currently taking classes which teach CSS, HTML, JS, and R, and may eventually teach jQuery and React (I'll be learning these along with Tailwind independently if not).
+* I am always eager to talk about anything in relation to animals and animal welfare in general (hence pre-vet track @ BU).
 
 ### things I know how to use
 <!-- Python, Java, Rust, Docker -->
@@ -78,20 +83,3 @@
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/tensorflow-colored.svg/" alt="TensorFlow" width="40" height="40">
     </a>
 </p>
-
-
-
-<!--
-**amachn/amachn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
