@@ -12,7 +12,7 @@
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/java-colored.svg/" alt="Java" width="40" height="40">
     </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rust-colored-dark.svg/" alt="Rust" width="40" height="40">
+        <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rust-dark.svg/" alt="Rust" width="40" height="40">
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/docker-colored.svg/" alt="Docker" width="40" height="40">
