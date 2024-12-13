@@ -4,17 +4,20 @@ I've been coding since early junior high (.bat and .vb shockingly) and am still 
 
 * I've taken plenty of classes that go over Python and Java, so they're by far my best 2 languages.
 * Rust is the first language I've learned completely on my own, and I'm definitely not perfect at it but I love it.
-* I'm currently taking classes which teach CSS, HTML, JS, and R, and may eventually teach jQuery and React (I'll be learning these along with Tailwind independently if not).
+* I've most recently learned R via my CSI 2300 class at Baylor, but was not so successful with mastering CSS, HTML, JS, and React, so these will continue into solo learning endeavors
 * I am always eager to talk about anything in relation to animals and animal welfare in general (hence pre-vet track @ BU).
 
 ### things I know how to use
-<!-- Python, Java, Rust, Docker -->
+<!-- Python, Java, R, Rust, Docker -->
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/python-colored.svg/" alt="Python" width="40" height="40">
     </a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/java-colored.svg/" alt="Java" width="40" height="40">
+    </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rlang-colored.svg/" alt="R" width="40" height="40">
     </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rust-dark.svg/" alt="Rust" width="40" height="40">
@@ -39,7 +42,7 @@ I've been coding since early junior high (.bat and .vb shockingly) and am still 
 </p>
 
 ### things I'm currently learning
-<!-- CSS, HTML, JS, R -->
+<!-- CSS, HTML, JS -->
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg/" alt="CSS" width="40" height="40">
@@ -49,9 +52,6 @@ I've been coding since early junior high (.bat and .vb shockingly) and am still 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
         <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/javascript-colored.svg/" alt="JavaScript" width="40" height="40">
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/rlang-colored.svg/" alt="R" width="40" height="40">
     </a>
 </p>
 
